@@ -1,10 +1,8 @@
-import React from 'react';
+import React from "react";
 
 class Main extends React.Component {
   render() {
-    return (
-      <div className="parent"> React Boiler Plate </div>
-    );
+    return <div className="parent"> React-Redux Boiler Plate </div>;
   }
 }
 
